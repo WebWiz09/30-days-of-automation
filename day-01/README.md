@@ -9,7 +9,7 @@
 
 ## 🔧 What I Built
 
-A two-step automation that sends an automatic thank you email to anyone who submits a Google Form.
+A two-step automation that sends an automatic thank-you email to anyone who submits a Google Form.
 
 ---
 
@@ -50,11 +50,6 @@ Master this pattern and you can automate the first touchpoint of any business pr
 
 ---
 
-## 📸 Screenshot
-
-> *(Add screenshot of your Zapier workflow here)*
-
----
 
 ## 🔁 How to Replicate
 
