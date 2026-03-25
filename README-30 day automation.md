@@ -1,6 +1,6 @@
 # 🔧 30 Days of Automation
 
-> Building one automation every single day for 30 days — and shipping it publicly.
+> Building one automation every single day for 30 days and shipping it publicly.
 
 **Challenge started:** March 25, 2025  
 **Tools:** Zapier · Make · n8n · Python  
@@ -54,29 +54,6 @@
 | Day 29 | Coming soon... | — | — |
 | Day 30 | Coming soon... | — | — |
 
----
-
-## 📁 Repo Structure
-
-```
-30-days-of-automation/
-├── README.md          ← you are here
-├── day-01/
-│   ├── README.md      ← build writeup + how it works
-│   └── workflow.json  ← exported workflow file
-├── day-02/
-│   ├── README.md
-│   └── workflow.json
-...
-```
-
----
-
-## 🙋 About Me
-
-200-level CS student at the University of Nigeria, Nsukka (UNN).  
-Building towards launching my own AI automation agency by end of 2025.  
-Currently enrolled in the Loubby AI Automation Bootcamp.
 
 ---
 
